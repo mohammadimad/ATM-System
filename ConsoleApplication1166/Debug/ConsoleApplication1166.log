@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1166.cpp
+C:\Users\HP\source\repos\ConsoleApplication1166\ConsoleApplication1166\ConsoleApplication1166.cpp(33,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\ConsoleApplication1166\ConsoleApplication1166\ConsoleApplication1166.cpp(149): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  ConsoleApplication1166.vcxproj -> C:\Users\HP\source\repos\ConsoleApplication1166\Debug\ConsoleApplication1166.exe
